@@ -8,7 +8,7 @@ Este repositório contém os projetos em C (CodeBlocks) desenvolvidas conforme o
 <br/>
 <br/>
 <b>Trabalho 1:</b><br/>
-Instruções:<br/>
+INSTRUÇÕES:<br/>
 	  Ao abrir o programa, existe um menu na lateral esquerda disponibilizando as seguintes ações:<br/>
     1 - QUADRADO: Botão que cria um quadrado no meio da tela<br/>
     2 - TRIANGULO: Botão que cria um triângulo no meio da tela<br/>
@@ -32,7 +32,7 @@ Instruções:<br/>
     A tecla ESC encerra o programa<br/>
 <br/>
 <br/>
-Trabalho 3:<br/>
+<b>Trabalho 3:</b><br/>
 INSTRUÇÕES:<br/>
 	  Ao abrir o programa, existe um menu com as seguintes ações:<br/>
     1 - NEW GAME<br/>
@@ -60,7 +60,7 @@ INSTRUÇÕES:<br/>
     É possível sair da fase e voltar ao MENU a qualquer momento, com a tecla ESC<br/>
     É possível encerrar o jogo com a tecla F4<br/>
 <br/>  
-Trabalho 4:<br/>
+<b>Trabalho 4:</b><br/>
 INSTRUÇÕES:<br/>
 	  Ao abrir o programa, é exibida uma engrenagem, girando nos eixos x, y e z<br/>
 <br/>
