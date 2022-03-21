@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1589222603 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\vector2.h
+
+1603975055 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1589214882 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\vector2.h
+
+1589218349 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1623542060 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<list>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Menu.h"
+	"Manager.h"
+	"Botao.h"
+
+1623523806 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\manager.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	"gl_canvas2d.h"
+
+1623542655 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\botao.h
+	<fstream>
+	<list>
+	"gl_canvas2d.h"
+
+1589214882 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1623535566 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\manager.cpp
+	"manager.h"
+
+1623113242 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\menu.cpp
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Menu.h"
+
+1623115009 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\menu.h
+	"gl_canvas2d.h"
+
+1622920357 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\painel.cpp
+
+1622920369 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\gl_1_canvasglut\src\painel.h
+
+1589222603 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\vector2.h
+
+1623722422 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<vector>
+	<list>
+	<iostream>
+	<fstream>
+	<string>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Manager.h"
+	"Botao.h"
+
+1623721870 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\manager.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	"gl_canvas2d.h"
+
+1623867295 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\botao.h
+	<fstream>
+	<list>
+	<string>
+	"gl_canvas2d.h"
+
+1623723229 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\manager.cpp
+	"manager.h"
+
+1623113242 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\menu.cpp
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Menu.h"
+
+1623115009 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\menu.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\smfinkler\src\relogio.h
+	"gl_canvas2d.h"
+
+1589222603 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\vector2.h
+
+1623723229 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\manager.cpp
+	"manager.h"
+
+1623721870 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\manager.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	"gl_canvas2d.h"
+
+1627074795 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\cenario.cpp
+	"cenario.h"
+
+1627078988 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\cenario.h
+	<stdio.h>
+	<stdbool.h>
+	<cmath>
+	"gl_canvas2d.h"
+
+1627079235 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<vector>
+	<list>
+	<string>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Jogo.h"
+	"Botao.h"
+
+1627075006 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\botao.h
+	<fstream>
+	<list>
+	<string>
+	"gl_canvas2d.h"
+
+1626661513 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\projetil.c
+	"projetil.h"
+
+1627075049 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\projetil.h
+	<stdio.h>
+	<math.h>
+	"gl_canvas2d.h"
+
+1627075178 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\projetil.cpp
+	"Projetil.h"
+
+1627078852 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\jogo.cpp
+	"jogo.h"
+
+1627078591 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\jogo.h
+	<stdio.h>
+	"cenario.h"
+	"projetil.h"
+	"gl_canvas2d.h"
+
+1626918251 source:c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\menu.cpp
+	"menu.h"
+
+1626918251 c:\users\samuel\google drive\ufsm aulas\5º semestre\cg\demos\trabalhos 2021\t3\smfinkler\src\menu.h
+	<stdio.h>
+	"botao.h"
+	"gl_canvas2d.h"
+
+1627074795 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\cenario.cpp
+	"cenario.h"
+
+1627078988 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\cenario.h
+	<stdio.h>
+	<stdbool.h>
+	<cmath>
+	"gl_canvas2d.h"
+
+1603974868 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\vector2.h
+
+1589222603 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1627078852 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\jogo.cpp
+	"jogo.h"
+
+1627078591 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\jogo.h
+	<stdio.h>
+	"cenario.h"
+	"projetil.h"
+	"gl_canvas2d.h"
+
+1627075049 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\projetil.h
+	<stdio.h>
+	<math.h>
+	"gl_canvas2d.h"
+
+1627079235 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<vector>
+	<list>
+	<string>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Jogo.h"
+	"Botao.h"
+
+1627075006 c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\botao.h
+	<fstream>
+	<list>
+	<string>
+	"gl_canvas2d.h"
+
+1627075178 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\projetil.cpp
+	"Projetil.h"
+
