@@ -32,6 +32,7 @@ INSTRUÇÕES:<br/>
     A tecla ESC encerra o programa<br/>
     
     ![image](https://user-images.githubusercontent.com/49410834/159201922-fc1f00fc-51a9-41ff-b15a-e124b518e047.png)
+    
 <br/>
 <br/>
 <b>Trabalho 3:</b><br/>
@@ -63,6 +64,7 @@ INSTRUÇÕES:<br/>
     É possível encerrar o jogo com a tecla F4<br/>
     
     ![image](https://user-images.githubusercontent.com/49410834/159201964-f204dd33-3e09-416d-ae24-19db2cf67450.png)
+    
 <br/>  
 <b>Trabalho 4:</b><br/>
 INSTRUÇÕES:<br/>
