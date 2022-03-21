@@ -86,3 +86,6 @@ INSTRUÇÕES:<br/>
     OBS: Para algumas alterações de configuração, pode não ser muito visível após uma alteração apenas, então pode ser necessário apertar o botão mais vezes<br/>
     OBS: Os pontos foram armazenados em vetores e os índices de matriz calculados de acordo com a fórmula [i*num_coluna+j]<br/>
     É possível encerrar o jogo com a tecla F4<br/>
+    
+   ![image](https://user-images.githubusercontent.com/49410834/159201834-de0d39d1-834a-4865-aca1-e7439445ac46.png)
+
