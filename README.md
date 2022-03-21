@@ -60,6 +60,7 @@ INSTRUÇÕES:<br/>
     Após iniciar partida, é possível alternar entre as duas fases(cenários) com o botão ESPAÇO, contanto que seja no início da fase(10 projeteis) ou final(0 projéteis)<br/>
     É possível sair da fase e voltar ao MENU a qualquer momento, com a tecla ESC<br/>
     É possível encerrar o jogo com a tecla F4<br/>  
+    
     ![image](https://user-images.githubusercontent.com/49410834/159202057-0a3f3a05-fed4-4c0a-af8c-68c49032c831.png)
 
 <br/>  
