@@ -30,9 +30,7 @@ INSTRUÇÕES:<br/>
     Havendo alguma figura selecionada, ao clicar na paleta de cores, essa figura recebe a cor clicada.<br/>
     Havendo alguma figura selecionada é possível movê-la com as setas do teclado e com o mouse (segurando e arrastando)<br/>
     A tecla ESC encerra o programa<br/>
-    
-    ![image](https://user-images.githubusercontent.com/49410834/159201922-fc1f00fc-51a9-41ff-b15a-e124b518e047.png)
-    
+ 
 <br/>
 <br/>
 <b>Trabalho 3:</b><br/>
@@ -61,10 +59,9 @@ INSTRUÇÕES:<br/>
     Para lançar um projétil, a força que ele será lançado depende de quanto se segura o mouse (a força aumenta até um máximo e depois diminui até um mínimo)<br/>
     Após iniciar partida, é possível alternar entre as duas fases(cenários) com o botão ESPAÇO, contanto que seja no início da fase(10 projeteis) ou final(0 projéteis)<br/>
     É possível sair da fase e voltar ao MENU a qualquer momento, com a tecla ESC<br/>
-    É possível encerrar o jogo com a tecla F4<br/>
-    
-    ![image](https://user-images.githubusercontent.com/49410834/159201964-f204dd33-3e09-416d-ae24-19db2cf67450.png)
-    
+    É possível encerrar o jogo com a tecla F4<br/>  
+    ![image](https://user-images.githubusercontent.com/49410834/159202057-0a3f3a05-fed4-4c0a-af8c-68c49032c831.png)
+
 <br/>  
 <b>Trabalho 4:</b><br/>
 INSTRUÇÕES:<br/>
