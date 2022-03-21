@@ -404,3 +404,81 @@
 1627075178 source:c:\users\smfin\onedrive\Área de trabalho\trabalhos 2021\t3\smfinkler\src\projetil.cpp
 	"Projetil.h"
 
+1627074795 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\cenario.cpp
+	"cenario.h"
+
+1627078988 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\cenario.h
+	<stdio.h>
+	<stdbool.h>
+	<cmath>
+	"gl_canvas2d.h"
+
+1603974868 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\vector2.h
+
+1589222603 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1627078852 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\jogo.cpp
+	"jogo.h"
+
+1627078591 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\jogo.h
+	<stdio.h>
+	"cenario.h"
+	"projetil.h"
+	"gl_canvas2d.h"
+
+1627075049 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\projetil.h
+	<stdio.h>
+	<math.h>
+	"gl_canvas2d.h"
+
+1627079235 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\main.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<vector>
+	<list>
+	<string>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Jogo.h"
+	"Botao.h"
+
+1627075006 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\botao.h
+	<fstream>
+	<list>
+	<string>
+	"gl_canvas2d.h"
+
+1627075178 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_3\smfinkler\src\projetil.cpp
+	"Projetil.h"
+

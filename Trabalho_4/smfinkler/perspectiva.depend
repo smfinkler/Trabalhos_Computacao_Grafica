@@ -414,3 +414,44 @@
 	<time.h>
 	"gl_canvas2d.h"
 
+1629767817 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1590159791 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\src\vector2.h
+
+1629857899 source:c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\src\main.cpp
+	"Engrenagem.h"
+	"gl_canvas2d.h"
+
+1629858209 c:\users\smfin\onedrive\documentos\github\trabalhos_computacao_grafica\trabalho_4\smfinkler\src\engrenagem.h
+	<math.h>
+	<time.h>
+	"gl_canvas2d.h"
+
