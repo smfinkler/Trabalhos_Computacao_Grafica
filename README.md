@@ -7,7 +7,7 @@ Período: 5º semestre (2021/1)<br/>
 Este repositório contém os projetos em C (CodeBlocks) desenvolvidas conforme os trabalhos propostos pelo professor.<br/>
 <br/>
 <br/>
-<b>Trabalho 1:<b/><br/>
+<b>Trabalho 1:</b><br/>
 Instruções:<br/>
 	  Ao abrir o programa, existe um menu na lateral esquerda disponibilizando as seguintes ações:<br/>
     1 - QUADRADO: Botão que cria um quadrado no meio da tela<br/>
